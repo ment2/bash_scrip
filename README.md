@@ -1,3 +1,4 @@
+```
 crontab -e
 0 * * * * /media/sf_DZ/bash/apache_log_script.sh
 
@@ -923,3 +924,4 @@ Logs time:
 ---------------------------
 log start time: [17/May/2015:10:05:03
 log end time: [20/May/2015:21:05:15
+```
